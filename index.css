@@ -1,0 +1,113 @@
+.container{
+    background-color:aqua;
+      text-align:center;
+      border: 3px solid rgb(49, 102, 218);  
+      outline: 3px solid black;  
+      border-radius: 12px;  
+      font-size: 25px;  
+      font-weight: bold;
+      justify-content: center;
+      width:fit-content;  
+      margin: 30px;  
+      padding: 30px;  
+      outline-offset: 0.5em;
+    
+    }
+    
+    h1{
+        display:flex;
+        justify-content: center;
+        align-items: center;
+        margin:10px;
+        margin-bottom: 20px;
+    }label{
+        height:30px;
+        font-weight: bold;
+        margin-top: 10px;
+        display: inline-block;
+        width: 300px;
+        justify-content: left;
+    
+    }
+    input {
+        padding: 10px;
+        margin: 0px;
+        border: none;
+        border-radius: 5px;
+        box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+        display: inline-block;
+        text-align: center;
+      
+      
+      }
+    #name,#email{
+        margin-left: 23px;
+    }
+    #pas{
+        margin-right: 2px;
+    }
+    #password{
+        margin-left:15px;
+    }
+    #dob{
+        margin-left:37px;
+    }
+    #check{
+        margin-left:15px;
+    }
+    #acceptTerms{
+        width:13px;
+        margin-left: 15px;
+    }
+    #button{
+        margin-left: 15px;
+        font-size: 20px;  
+    }
+    
+    #tab1{
+        font-size: 20px;  
+        padding-left: 3.0rem;
+        padding-right: 3.0rem;
+        position: relative;
+        margin-left: auto;
+        margin-right: auto;
+        background-color: rgb(215, 196, 196);
+        padding: 10px 6px 8px 6px;
+        margin-top: 5px;
+        border-color: rgba(58, 53, 53, 0.2);
+        border-radius: 0.5rem;
+        box-shadow: rgba(0, 0, 0, 0.25);
+        border-width: 1px;
+    }
+    #tab2{
+        margin: auto;
+    }
+    #tab3{
+        font-size: 20px;  
+        font-weight: 655;
+        font-size: 1.900rem;
+        text-align: center;
+        line-height: 1.5;
+        line-height: 3.45rem;
+    }
+    td{
+        font-size: 20px;  
+        padding-right: 3rem;
+        padding-left: 3rem;
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+        border-width: 1px;
+        border-style: solid;
+        border-color: rgb(121, 19, 176);
+    }
+
+    th{
+        font-size: 22px;  
+        padding-right: 2rem;
+        padding-left: 2rem;
+        
+        
+    }
+      
+      
+    
